@@ -19,4 +19,8 @@ de manera con enlace de teclado a través de FocusStatus usando SwiftUI.
 
 
 
+https://user-images.githubusercontent.com/11272714/229865956-cae4e558-e22e-404b-8159-f3470d558a0e.mov
+
+
+
 
